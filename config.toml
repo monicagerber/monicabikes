@@ -1,5 +1,5 @@
 theme = "ezhil"
-baseURL = "http://example.org/"
+baseURL = "https://www.monicabikes.com/"
 languageCode = "en-us"
 title = "Monica Bikes"
 paginate = 5
