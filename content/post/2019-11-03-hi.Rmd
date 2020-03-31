@@ -1,0 +1,10 @@
+---
+title: Hi
+author: Monica Gerber
+date: '2019-11-03'
+slug: hi
+categories: []
+tags: []
+---
+
+This blog serves two purposes: (1) to remind myself how to use {blogdown}, a R package for creating websites with R Markdown and Hugo, and (2) to share my thoughts about bicycling in hopes of motivating myself to bike more throughout the winter. I'm intentionally starting this blog on November 3, the first day of daylight savings time, because this is when I typically have found it harder to keep biking because of the dark evenings. My goal is to write one short post a week. Some may be short musings about bicycling in Seattle, and other posts may be more data-driven and R-focused. Connecting my bicycling and R goals is intentional---I often think about R projects and problems while I'm on my bike!

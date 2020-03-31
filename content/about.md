@@ -1,0 +1,1 @@
+Biking makes me happy, feel part of the city I live in, and is something I can do everyday to fight climate change. I started this blog to track my musings about bikes and to motivate myself to bike through the winter.
